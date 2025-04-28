@@ -1,6 +1,6 @@
 # EE2211 — Introduction to Machine Learning Finals Code
 
-For Chapters 4 to 9 of EE2211 Introduction to Machine Learning, a course taught at the National University of Singapore (NUS).
+This comprehensive code compilation was used to ace the final exam for EE2211 Introduction to Machine Learning, a course taught at the National University of Singapore (NUS). It includes many code snippets covering as many questions as possible in the exam, automating manual calculations to save time and increase accuracy of answers. Use at your own discretion. For Chapters 4 to 9 of the said course.
 
 4. Systems of Linear Equations
 5. Least Squares, Linear Regression
